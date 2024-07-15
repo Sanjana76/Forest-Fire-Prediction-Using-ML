@@ -9,10 +9,10 @@ forest authorities to prioritize resource allocation for prevention and early in
 successful implementation of this system can significantly reduce the devastating impacts of 
 forest fires. This combination of machine learning and web development creates a strong tool for 
 early detection and prevention of forest fire by providing better prediction of fire occurrence to 
-the forest firefighters and stakeholders. We have focused on building a web page that ensures the 
-accurate prediction of forest fire occurrence. To ensure our model prediction accuracy, we have 
-developed various testing and training scenarios for our dataset so that the prediction accuracy 
-will be more accurate and relevance. The outcome of our project is to provide a practical and 
-user-friendly prediction model to our forest firefighters and stakeholders so that they can take 
+the forest firefighters and stakeholders. The project is focused on building a web page that ensures the 
+accurate prediction of forest fire occurrence. To ensure the model prediction accuracy, there are various 
+ testing and training scenarios developed for the dataset so that the prediction accuracy 
+will be more accurate and relevance. The outcome of the project is to provide a practical and 
+user-friendly prediction model to the forest firefighters and stakeholders so that they can take 
 some extra measures to control the fire and prevent the forest form the damage. This project also 
 provides a structure for future research and development in this field.
